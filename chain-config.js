@@ -7,7 +7,6 @@ const networkConfig = {
 
   5: {
     name: "goerli",
-    ethUsdPriceFeed: "0xD4a33860578De61DBAbDc8BFdb98FD742fA7028e",
     wethToken: "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
     lendingPoolAddressesProvider: "0x5E52dEc931FFb32f609681B8438A51c675cc232d",
   },
